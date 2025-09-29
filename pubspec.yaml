@@ -63,7 +63,7 @@ flutter:
   #   - images/a_dot_ham.jpeg
 
   assets:
-    - assets/happy_face.jpeg
+    - assets/happy_face.png
     - assets/sad_face.png
     - assets/shocked_face.png
 
